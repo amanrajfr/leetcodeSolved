@@ -14,9 +14,9 @@ public:
             }
             sol=sol*10+rev;
             x=x/10;
+          
+            }return sol;
         
-            }
-        
-        return sol;
+      
     }
 };
